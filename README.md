@@ -5,7 +5,7 @@ Welcome to GitHub Docs! GitHub’s documentation is open source, meaning anyone 
 
 ## Quick links by contributor type
 
-* **Hubbers (GitHub employees):** See [CONTRIBUTING.md](https://github.com/github/docs-content/blob/main/CONTRIBUTING.md) in the `docs-content` repository for GitHub-specific processes.
+    * **Hubbers (GitHub employees):** See [CONTRIBUTING.md](https://github.com/github/docs-content/blob/main/CONTRIBUTING.md) in the `docs-content` repository for GitHub-specific processes.
 
 * **Open source contributors:** See [CONTRIBUTING.md](https://github.com/github/docs/blob/main/.github/CONTRIBUTING.md) in the `docs` repository for a quick-start summary.
 
@@ -36,10 +36,6 @@ This project is dual-licensed under:
 
 * **Creative Commons Attribution 4.0** - for documentation and content in the assets, content, and data folders (see [LICENSE](LICENSE))
 * **MIT License** - for code (see [LICENSE-CODE](LICENSE-CODE))
-Attribution 4.0 International
-
-=======================================================================
-
 Creative Commons Corporation ("Creative Commons") is not a law firm and
 does not provide legal services or legal advice. Distribution of
 Creative Commons public licenses does not create a lawyer-client or
@@ -90,7 +86,6 @@ exhaustive, and do not form part of our licenses.
     for the public:
     wiki.creativecommons.org/Considerations_for_licensees
 
-=======================================================================
 
 Creative Commons Attribution 4.0 International Public License
 
@@ -402,7 +397,6 @@ Section 8 -- Interpretation.
      that apply to the Licensor or You, including from the legal
      processes of any jurisdiction or authority.
 
-=======================================================================
 
 Creative Commons is not a party to its public
 licenses. Notwithstanding, Creative Commons may elect to apply one of
@@ -423,3 +417,4 @@ public licenses.
 
 Creative Commons may be contacted at creativecommons.org.
 
+(LICENSE-CODE)see
